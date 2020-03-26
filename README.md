@@ -1,4 +1,4 @@
-# Matplotlib: analysis of drug to fight cancer
+# Matplotlib: Analysis of drug to fight cancer
 #### Exercise Performed for the Coding BootCamp in Rutgers University, New Jersey 
 
 ## About
